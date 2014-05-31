@@ -1,0 +1,47 @@
+{
+    "appKeys": {},
+    "longName": "PebbleStopwatch",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "bkuehner",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/DejaVuSans.ttf",
+                "type": "font",
+                "name": "FONT_DEJAVU_SANS_SUBSET_22",
+                "characterRegex": "[:0-9. ]"
+            },
+            {
+                "file": "fonts/DejaVuSans.ttf",
+                "type": "font",
+                "name": "FONT_DEJAVU_SANS_SUBSET_18",
+                "characterRegex": "[:0-9. )Nolapsyet]"
+            },
+            {
+                "file": "fonts/DejaVuSans-Bold.ttf",
+                "type": "font",
+                "name": "FONT_DEJAVU_SANS_BOLD_SUBSET_30",
+                "characterRegex": "[:0-9]"
+            },
+            {
+                "file": "images/stopwatch.png",
+                "type": "png",
+                "name": "IMAGE_MENU_ICON"
+            },
+            {
+                "file": "images/buttons.png",
+                "type": "png",
+                "name": "IMAGE_BUTTON_LABELS"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "uuid": "5cec9333-3953-46a8-834c-a25a3f4bfcbf",
+    "shortName": "PebbleStopwatch",
+    "versionCode": 1
+}
